@@ -7,3 +7,6 @@ Answer: Machine Learning
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Rebasing overwrites a branch's history and merging preserves the history of both. 
+Q4: What are you looking forward to this semester?
+
+Answer: Learning more about data science
