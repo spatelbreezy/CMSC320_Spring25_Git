@@ -4,4 +4,6 @@ Answer: Collaboration is extremely easy and streamlined with git-version control
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Machine Learning
+Q3: What is the difference between Merging and Rebasing?
 
+Answer: Rebasing overwrites a branch's history and merging preserves the history of both. 
